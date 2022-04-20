@@ -1,0 +1,10 @@
+@import url('styles/configs/reset.scss');
+@import url('styles/configs/fonts.scss');
+@import url('styles/configs/typography.scss');
+@import url('styles/configs/global.scss');
+
+@import url('components/molecules/creditor/creditor.scss');
+@import url('components/molecules/debitor/debitor.scss');
+@import url('components/atoms/logo/logo.scss');
+@import url('components/molecules/positions/positions.scss');
+@import url('components/pages/invoice-form/invoice-form.scss');
